@@ -1,0 +1,12 @@
+1. *importing-your-projects-to-github:*
+	https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+	
+2. *added org.apache.common.lang3 (for utils)*
+download jar from https://download.eclipse.org/oomph/archive/reports/download.eclipse.org/releases/2019-09/index/org.apache.commons.lang3_3.1.0.v201403281430.html
+
+https://stackoverflow.com/questions/30555847/how-do-i-import-org-apache-commons-lang3-arrayutils-into-eclipse
+Right Click Eclipse Project from the Project or Package explorer
+Properties -> Java Build Path -> Libraries
+From here select:
+'Add jar' if the jar is within your project
+'Add external jar' if it is on your file system (C:\Users\sriram\eclipse-workspace)
