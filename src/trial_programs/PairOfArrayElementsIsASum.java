@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package trial_programs;
+
 import java.util.HashSet;
 import java.util.Set;
 

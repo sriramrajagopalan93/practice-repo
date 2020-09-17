@@ -1,3 +1,5 @@
+package trial_programs;
+
 public class ReverseAString {
 
 	public static void main(String[] args) {

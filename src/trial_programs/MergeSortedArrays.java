@@ -1,3 +1,5 @@
+package trial_programs;
+
 
 public class MergeSortedArrays {
 
@@ -10,6 +12,7 @@ public class MergeSortedArrays {
 	}
 
 	// O(n) complexity
+	/*THE LAST STEP (ITERATION) OF MERGE SORT IS THE SOLUTION OF THIS QUESTION*/
 	private static void mergeSortedArrays2(int[] array1, int[] array2) {
 		// TODO Auto-generated method stub
 		int array1Position = 0; // increase count once the array1 position is moved into resultArray

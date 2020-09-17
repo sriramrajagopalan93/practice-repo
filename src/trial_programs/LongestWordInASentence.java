@@ -1,3 +1,5 @@
+package trial_programs;
+
 
 public class LongestWordInASentence {
 
